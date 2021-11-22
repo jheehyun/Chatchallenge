@@ -28,7 +28,7 @@ body {
     color: #131210;
     margin-bottom: 73px;
     max-width: 100%;
-    overflow-x: hidden;
+    overflow: hidden;
     background: var(--yellow);
 }
 /* 스크롤바 설정 */
